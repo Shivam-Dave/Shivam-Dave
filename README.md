@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam-Dave
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
