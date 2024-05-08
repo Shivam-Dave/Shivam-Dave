@@ -13,11 +13,6 @@ Hi, I'm Shivam Dave, a third-year Computer Science Engineering student specializ
 ## Projects
 
 My portfolio features projects in a variety of domains, showcasing my skills and interests:
-
-- **[Personal Portfolio Website](https://shivamdave-portfolio.vercel.app/):** Designed and developed a personal website to showcase my work and skills.
-- **[Breast Cancer Diagnosis Prediction](https://github.com/Shivam-Dave):** Created a Python-based machine learning model for predicting breast cancer diagnosis.
-- **[Nutritional Diet Suggestion Expert System](https://github.com/Shivam-Dave):** Developed a Python-based system that offers personalized diet plans.
-
 You can explore more projects in my [Projects](https://github.com/Shivam-Dave?tab=repositories) repository.
 
 ## Skills
