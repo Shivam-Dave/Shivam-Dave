@@ -1,8 +1,40 @@
-- 👋 Hi, I’m @Shivam-Dave
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Shivam Dave
+
+## About Me
+
+Hi, I'm Shivam Dave, a third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. My passion for technology drives me to continuously explore new areas and expand my knowledge. I strive to apply my skills and expertise to create impactful solutions in software development.
+
+## Interests
+
+- **Software Development:** I enjoy working on diverse projects and exploring new programming languages and frameworks.
+- **Artificial Intelligence & Machine Learning:** My current specialization includes building intelligent systems and developing predictive models.
+- **Web Development:** I design and create modern, user-friendly websites that provide seamless experiences.
+
+## Projects
+
+My portfolio features projects in a variety of domains, showcasing my skills and interests:
+
+- **[Personal Portfolio Website](https://shivamdave-portfolio.vercel.app/):** Designed and developed a personal website to showcase my work and skills.
+- **[Breast Cancer Diagnosis Prediction](https://github.com/Shivam-Dave):** Created a Python-based machine learning model for predicting breast cancer diagnosis.
+- **[Nutritional Diet Suggestion Expert System](https://github.com/Shivam-Dave):** Developed a Python-based system that offers personalized diet plans.
+
+You can explore more projects in my [Projects](https://github.com/Shivam-Dave?tab=repositories) repository.
+
+## Skills
+
+- **Programming Languages:** Python, C, R, Java , C++
+- **Front-End Technologies:** HTML, CSS, JavaScript
+- **Back-End Technologies:** PHP, MySQL, MongoDB
+- **Tools:** Git, GitHub, Visual Studio Code, Canva
+
+## Contact Me
+
+I'm open to collaborating on interesting projects, internships, or research opportunities. Feel free to reach out to me via:
+
+- Email: [shivamdave172003@gmail.com](mailto:shivamdave172003@gmail.com)
+- LinkedIn: [@shivamnitindave](https://www.linkedin.com/in/shivamnitindave)
+
+Thank you for visiting my GitHub profile! I'm looking forward to connecting with you and exploring exciting opportunities.
 
 <!---
 Shivam-Dave/Shivam-Dave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
