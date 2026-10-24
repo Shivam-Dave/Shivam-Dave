@@ -107,9 +107,9 @@ I build computer vision and backend systems that run in production, and I contri
 
 <p><a name="github-activity" href="#github-activity"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h8-dark.svg"><img src="assets/h8-light.svg" width="100%" alt="08 // GitHub Activity"></picture></a></p>
 
-<p><a name="snake" href="#snake"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-light.svg" width="100%" alt="My contribution graph being eaten by a snake"></picture></a></p>
+<p><a name="snake" href="#snake"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-light.svg" width="100%" alt="My last 4 months of contributions being eaten by a snake"></picture></a></p>
 
-<p align="center"><sub>My last 12 months of contributions, refreshed every quarter.</sub></p>
+<p align="center"><sub>My last 4 months of contributions, refreshed daily.</sub></p>
 
 <a name="footer" href="#footer"><img src="assets/footer.svg" width="100%" alt=""></a>
 
