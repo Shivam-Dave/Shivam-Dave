@@ -9,6 +9,10 @@
   <a href="mailto:shivamdave172003@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Paid%20Open%20Source%20%26%20Contract%20Work-7f9c78?style=for-the-badge&labelColor=2b2824" alt="Open to paid open source and contract work"></a>
 </p>
 
+<p align="center">
+  <sub><a href="#about-me">About</a> · <a href="#what-i-work-on">What I Work On</a> · <a href="#tech-stack">Tech Stack</a> · <a href="#open-source">Open Source</a> · <a href="#experience">Experience</a> · <a href="#featured-projects">Projects</a> · <a href="#courses-and-certifications">Certifications</a> · <a href="#github-activity">Activity</a></sub>
+</p>
+
 <p><a name="about-me" href="#about-me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h1-dark.svg"><img src="assets/h1-light.svg" width="100%" alt="01 // About Me"></picture></a></p>
 
 <a name="about-terminal" href="#about-terminal"><img src="assets/about.svg" width="100%" alt="About Shivam Dave: Jr. Software Developer (ML) at Parkomate Solutions, B.Tech CSE (AI and ML) with CGPA 9.78, focused on Computer Vision, Backend Systems and ML and NLP, contributing to open source and open to paid open source and contract work"></a>
@@ -21,14 +25,7 @@ I build computer vision and backend systems that run in production, and I contri
 
 <p><a name="tech-stack" href="#tech-stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h3-dark.svg"><img src="assets/h3-light.svg" width="100%" alt="03 // Tech Stack"></picture></a></p>
 
-<p align="center"><b>Daily Drivers</b></p>
-<p align="center">
-  <a name="stack-daily" href="#stack-daily"><img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,mysql,postgres,php,html,css,bootstrap,react&perline=12" alt="Python, JavaScript, TypeScript, Node.js, Express, MySQL, PostgreSQL, PHP, HTML, CSS, Bootstrap, React"></a>
-</p>
-<p align="center"><b>Also Work With</b></p>
-<p align="center">
-  <a name="stack-also" href="#stack-also"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,nestjs,flutter,mongodb,java,c,cpp,r,linux,git&perline=12" alt="PyTorch, TensorFlow, scikit-learn, NestJS, Flutter, MongoDB, Java, C, C++, R, Linux, Git"></a>
-</p>
+<a name="stack" href="#stack"><img src="assets/stack.svg" width="100%" alt="Tech stack. Languages: Python, JavaScript, TypeScript, Java, C, C++, PHP, R. Backend and Data: Node.js, Express, NestJS, MySQL, PostgreSQL, MongoDB. Machine Learning: PyTorch, TensorFlow, scikit-learn, MATLAB. Frontend and Mobile: HTML, CSS, Bootstrap, React, Flutter. Tools: Git, GitHub, Linux, VS Code, Vercel"></a>
 
 <p><a name="open-source" href="#open-source"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h4-dark.svg"><img src="assets/h4-light.svg" width="100%" alt="04 // Open Source"></picture></a></p>
 
@@ -112,9 +109,13 @@ I build computer vision and backend systems that run in production, and I contri
 
 <p><a name="snake" href="#snake"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-dark.svg"><img src="https://raw.githubusercontent.com/Shivam-Dave/Shivam-Dave/output/snake-light.svg" width="100%" alt="My contribution graph being eaten by a snake"></picture></a></p>
 
+<p align="center"><sub>My last 12 months of contributions, refreshed every quarter.</sub></p>
+
 <a name="footer" href="#footer"><img src="assets/footer.svg" width="100%" alt=""></a>
 
 <p align="center">
   <b>Working on something in computer vision, backend systems or open source?</b><br>
   <sub>I'd love to hear about it. The quickest way to reach me is <a href="mailto:shivamdave172003@gmail.com">email</a> or <a href="https://www.linkedin.com/in/shivamnitindave">LinkedIn</a>.</sub>
 </p>
+
+<p align="center"><a href="#top">↑ Back to Top</a></p>
