@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivamnitindave"><img src="https://img.shields.io/badge/LinkedIn-shivamnitindave-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn: shivamnitindave"></a>
-  <a href="mailto:shivamdave172003@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: shivamdave172003@gmail.com"></a>
-  <img src="https://img.shields.io/badge/open%20to-paid%20open%20source%20%26%20contract%20work-3FB950?style=for-the-badge" alt="Open to paid open source and contract work">
+  <a href="https://www.linkedin.com/in/shivamnitindave"><img src="https://img.shields.io/badge/LinkedIn-shivamnitindave-6f8aa6?style=for-the-badge&labelColor=2b2824&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn: shivamnitindave"></a>
+  <a href="mailto:shivamdave172003@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-b9705a?style=for-the-badge&labelColor=2b2824&logo=gmail&logoColor=white" alt="Email: shivamdave172003@gmail.com"></a>
+  <img src="https://img.shields.io/badge/open%20to-paid%20open%20source%20%26%20contract%20work-7f9c78?style=for-the-badge&labelColor=2b2824" alt="Open to paid open source and contract work">
 </p>
 
 <picture>
@@ -52,7 +52,7 @@ I build computer vision and backend systems that run in production, and I contri
   <tr>
     <td><a href="https://github.com/sidorares/node-mysql2"><b>sidorares/node-mysql2</b></a><br><sub>MySQL driver for Node.js</sub></td>
     <td>Made the client announce only the capability flags the server supports, so strict servers like ClickHouse can connect. Same fix for <code>changeUser()</code>, with tests.</td>
-    <td><a href="https://github.com/sidorares/node-mysql2/pull/4626"><img src="https://img.shields.io/github/pulls/detail/state/sidorares/node-mysql2/4626?style=flat-square&label=PR%20%234626" alt="PR #4626 status"></a></td>
+    <td><a href="https://github.com/sidorares/node-mysql2/pull/4626"><img src="https://img.shields.io/github/pulls/detail/state/sidorares/node-mysql2/4626?style=flat-square&label=PR%20%234626&labelColor=2b2824" alt="PR #4626 status"></a></td>
   </tr>
 </table>
 

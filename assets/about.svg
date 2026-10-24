@@ -2,7 +2,7 @@
 <title>About Shivam Dave: Jr. Software Developer (ML) at Parkomate Solutions, B.Tech CSE (AI &amp; ML) with CGPA 9.78, focused on computer vision, backend systems and ML &amp; NLP, contributing to open source and open to paid open source and contract work</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    <stop offset="0" stop-color="#93b38c"/><stop offset=".5" stop-color="#d9b26f"/><stop offset="1" stop-color="#cf8a6b"/>
   </linearGradient><clipPath id="cmd"><rect class="cmdclip" x="47.8" y="53.5" width="140.6" height="24.75"/></clipPath>
 </defs>
 <style>
@@ -23,22 +23,22 @@
   .dot{transform-box:fill-box;transform-origin:center}
 </style>
 
-<rect x=".5" y=".5" width="859" height="371" rx="14" fill="#0d1117" stroke="#30363d"/>
-<path d="M14 .5H846A13.5 13.5 0 0 1 859.5 14V40H.5V14A13.5 13.5 0 0 1 14 .5Z" fill="#161b22" stroke="#30363d"/>
-<circle cx="24" cy="21" r="6" fill="#ff5f56"/><circle cx="44" cy="21" r="6" fill="#ffbd2e"/><circle cx="64" cy="21" r="6" fill="#27c93f"/>
-<text class="mono" x="430" y="26" font-size="13" fill="#8b949e" text-anchor="middle">shivam@github: ~</text>
-<text class="mono" x="28" y="70" font-size="16.5" fill="#22d3ee">$</text>
-<g clip-path="url(#cmd)"><text class="mono" x="47.8" y="70" font-size="16.5" fill="#e6edf3" textLength="138.6" lengthAdjust="spacingAndGlyphs">cat about.json</text></g>
-<text class="mono line" style="animation-delay:1.45s" x="28" y="104" font-size="16.5" xml:space="preserve"><tspan fill="#8b949e">{</tspan></text>
-<text class="mono line" style="animation-delay:1.61s" x="28" y="131" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"name"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"Shivam Dave"</tspan><tspan fill="#8b949e">,</tspan></text>
-<text class="mono line" style="animation-delay:1.77s" x="28" y="158" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"role"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"Jr. Software Developer (ML) @ Parkomate Solutions"</tspan><tspan fill="#8b949e">,</tspan></text>
-<text class="mono line" style="animation-delay:1.93s" x="28" y="185" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"focus"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"computer vision"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"backend systems"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"ML &amp; NLP"</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#8b949e">,</tspan></text>
-<text class="mono line" style="animation-delay:2.09s" x="28" y="212" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"education"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"B.Tech CSE (AI &amp; ML), CGPA 9.78"</tspan><tspan fill="#8b949e">,</tspan></text>
-<text class="mono line" style="animation-delay:2.25s" x="28" y="239" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"now"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"contributing to open source (node-mysql2)"</tspan><tspan fill="#8b949e">,</tspan></text>
-<text class="mono line" style="animation-delay:2.41s" x="28" y="266" font-size="16.5" xml:space="preserve">  <tspan fill="#a78bfa">"open_to"</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"paid open source"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"contract work"</tspan><tspan fill="#8b949e">]</tspan></text>
-<text class="mono line" style="animation-delay:2.57s" x="28" y="293" font-size="16.5" xml:space="preserve"><tspan fill="#8b949e">}</tspan></text>
+<rect x=".5" y=".5" width="859" height="371" rx="14" fill="#191816" stroke="#37332e"/>
+<path d="M14 .5H846A13.5 13.5 0 0 1 859.5 14V40H.5V14A13.5 13.5 0 0 1 14 .5Z" fill="#22201d" stroke="#37332e"/>
+<circle cx="24" cy="21" r="6" fill="#c9705d"/><circle cx="44" cy="21" r="6" fill="#d9b26f"/><circle cx="64" cy="21" r="6" fill="#93b38c"/>
+<text class="mono" x="430" y="26" font-size="13" fill="#a59e93" text-anchor="middle">shivam@github: ~</text>
+<text class="mono" x="28" y="70" font-size="16.5" fill="#d9b26f">$</text>
+<g clip-path="url(#cmd)"><text class="mono" x="47.8" y="70" font-size="16.5" fill="#ede7dd" textLength="138.6" lengthAdjust="spacingAndGlyphs">cat about.json</text></g>
+<text class="mono line" style="animation-delay:1.45s" x="28" y="104" font-size="16.5" xml:space="preserve"><tspan fill="#a59e93">{</tspan></text>
+<text class="mono line" style="animation-delay:1.61s" x="28" y="131" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"name"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#b9cfa9">"Shivam Dave"</tspan><tspan fill="#a59e93">,</tspan></text>
+<text class="mono line" style="animation-delay:1.77s" x="28" y="158" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"role"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#b9cfa9">"Jr. Software Developer (ML) @ Parkomate Solutions"</tspan><tspan fill="#a59e93">,</tspan></text>
+<text class="mono line" style="animation-delay:1.93s" x="28" y="185" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"focus"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#a59e93">[</tspan><tspan fill="#b9cfa9">"computer vision"</tspan><tspan fill="#a59e93">, </tspan><tspan fill="#b9cfa9">"backend systems"</tspan><tspan fill="#a59e93">, </tspan><tspan fill="#b9cfa9">"ML &amp; NLP"</tspan><tspan fill="#a59e93">]</tspan><tspan fill="#a59e93">,</tspan></text>
+<text class="mono line" style="animation-delay:2.09s" x="28" y="212" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"education"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#b9cfa9">"B.Tech CSE (AI &amp; ML), CGPA 9.78"</tspan><tspan fill="#a59e93">,</tspan></text>
+<text class="mono line" style="animation-delay:2.25s" x="28" y="239" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"now"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#b9cfa9">"contributing to open source (node-mysql2)"</tspan><tspan fill="#a59e93">,</tspan></text>
+<text class="mono line" style="animation-delay:2.41s" x="28" y="266" font-size="16.5" xml:space="preserve">  <tspan fill="#93abc4">"open_to"</tspan><tspan fill="#a59e93">: </tspan><tspan fill="#a59e93">[</tspan><tspan fill="#b9cfa9">"paid open source"</tspan><tspan fill="#a59e93">, </tspan><tspan fill="#b9cfa9">"contract work"</tspan><tspan fill="#a59e93">]</tspan></text>
+<text class="mono line" style="animation-delay:2.57s" x="28" y="293" font-size="16.5" xml:space="preserve"><tspan fill="#a59e93">}</tspan></text>
 <g class="line" style="animation-delay:2.78s">
-  <text class="mono" x="28" y="334" font-size="16.5" fill="#22d3ee">$</text>
-  <rect class="cursor" x="47.8" y="320.5" width="9.1" height="18.150000000000002" fill="#22d3ee"/>
+  <text class="mono" x="28" y="334" font-size="16.5" fill="#d9b26f">$</text>
+  <rect class="cursor" x="47.8" y="320.5" width="9.1" height="18.150000000000002" fill="#d9b26f"/>
 </g>
 </svg>

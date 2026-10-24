@@ -2,7 +2,7 @@
 <title>What I work on: computer vision (ANPR, detection and OCR, fine-tuning), backend systems (multi-tenant REST APIs, JWT auth, Node.js, Express, MySQL), ML and NLP (classical ML, deep learning, seq2seq summarisation)</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    <stop offset="0" stop-color="#93b38c"/><stop offset=".5" stop-color="#d9b26f"/><stop offset="1" stop-color="#cf8a6b"/>
   </linearGradient>
 </defs>
 <style>
@@ -23,46 +23,46 @@
   @keyframes node{50%{transform:scale(1.35)}}
 </style>
 <g class="card" style="animation-delay:0.00s">
-  <rect x="1" y="1" width="270" height="260" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="270" height="260" rx="14" fill="#191816" stroke="#37332e"/>
   <rect x="23" y="1" width="56" height="3" rx="1.5" fill="url(#accent)"/>
   <g transform="translate(25,32)" fill="none" stroke-width="3" stroke-linecap="round">
-        <path d="M0 14V0H14M52 0H66V14M66 38V52H52M14 52H0V38" stroke="#22d3ee"/>
-        <rect x="12" y="17" width="42" height="18" rx="3" stroke="#a78bfa" stroke-width="2"/>
-        <path d="M18 26H26M30 26H36M40 26H48" stroke="#8b949e" stroke-width="2"/>
-        <line x1="4" x2="62" y1="6" y2="6" stroke="#f472b6" stroke-width="2" class="scan"/>
+        <path d="M0 14V0H14M52 0H66V14M66 38V52H52M14 52H0V38" stroke="#d9b26f"/>
+        <rect x="12" y="17" width="42" height="18" rx="3" stroke="#93abc4" stroke-width="2"/>
+        <path d="M18 26H26M30 26H36M40 26H48" stroke="#a59e93" stroke-width="2"/>
+        <line x1="4" x2="62" y1="6" y2="6" stroke="#cf8a6b" stroke-width="2" class="scan"/>
       </g>
-  <text class="sans" x="25" y="132" font-size="21" font-weight="700" fill="#e6edf3">Computer Vision</text>
-  <text class="sans" x="25" y="168" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> licence plate recognition (ANPR)</text>
-  <text class="sans" x="25" y="195" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> detection + OCR pipelines</text>
-  <text class="sans" x="25" y="222" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> model fine-tuning &amp; evaluation</text>
+  <text class="sans" x="25" y="132" font-size="21" font-weight="700" fill="#ede7dd">Computer Vision</text>
+  <text class="sans" x="25" y="168" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> licence plate recognition (ANPR)</text>
+  <text class="sans" x="25" y="195" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> detection + OCR pipelines</text>
+  <text class="sans" x="25" y="222" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> model fine-tuning &amp; evaluation</text>
 </g>
 <g class="card" style="animation-delay:0.15s">
-  <rect x="296" y="1" width="270" height="260" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="296" y="1" width="270" height="260" rx="14" fill="#191816" stroke="#37332e"/>
   <rect x="318" y="1" width="56" height="3" rx="1.5" fill="url(#accent)"/>
   <g transform="translate(320,32)">
-        <rect x="0" y="0" width="66" height="14" rx="3" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
-        <circle cx="10" cy="7" r="2.6" fill="#3fb950" class="led" style="animation-delay:0s"/>
-        <path d="M22 7H56" stroke="#30363d" stroke-width="2.5" stroke-linecap="round"/><rect x="0" y="19" width="66" height="14" rx="3" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
-        <circle cx="10" cy="26" r="2.6" fill="#3fb950" class="led" style="animation-delay:0.4s"/>
-        <path d="M22 26H56" stroke="#30363d" stroke-width="2.5" stroke-linecap="round"/><rect x="0" y="38" width="66" height="14" rx="3" fill="#161b22" stroke="#a78bfa" stroke-width="2"/>
-        <circle cx="10" cy="45" r="2.6" fill="#3fb950" class="led" style="animation-delay:0.8s"/>
-        <path d="M22 45H56" stroke="#30363d" stroke-width="2.5" stroke-linecap="round"/>
+        <rect x="0" y="0" width="66" height="14" rx="3" fill="#22201d" stroke="#93abc4" stroke-width="2"/>
+        <circle cx="10" cy="7" r="2.6" fill="#93b38c" class="led" style="animation-delay:0s"/>
+        <path d="M22 7H56" stroke="#37332e" stroke-width="2.5" stroke-linecap="round"/><rect x="0" y="19" width="66" height="14" rx="3" fill="#22201d" stroke="#93abc4" stroke-width="2"/>
+        <circle cx="10" cy="26" r="2.6" fill="#93b38c" class="led" style="animation-delay:0.4s"/>
+        <path d="M22 26H56" stroke="#37332e" stroke-width="2.5" stroke-linecap="round"/><rect x="0" y="38" width="66" height="14" rx="3" fill="#22201d" stroke="#93abc4" stroke-width="2"/>
+        <circle cx="10" cy="45" r="2.6" fill="#93b38c" class="led" style="animation-delay:0.8s"/>
+        <path d="M22 45H56" stroke="#37332e" stroke-width="2.5" stroke-linecap="round"/>
       </g>
-  <text class="sans" x="320" y="132" font-size="21" font-weight="700" fill="#e6edf3">Backend Systems</text>
-  <text class="sans" x="320" y="168" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> multi-tenant REST APIs</text>
-  <text class="sans" x="320" y="195" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> auth with JWT &amp; bcrypt</text>
-  <text class="sans" x="320" y="222" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> Node.js · Express · MySQL</text>
+  <text class="sans" x="320" y="132" font-size="21" font-weight="700" fill="#ede7dd">Backend Systems</text>
+  <text class="sans" x="320" y="168" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> multi-tenant REST APIs</text>
+  <text class="sans" x="320" y="195" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> auth with JWT &amp; bcrypt</text>
+  <text class="sans" x="320" y="222" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> Node.js · Express · MySQL</text>
 </g>
 <g class="card" style="animation-delay:0.30s">
-  <rect x="591" y="1" width="270" height="260" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x="591" y="1" width="270" height="260" rx="14" fill="#191816" stroke="#37332e"/>
   <rect x="613" y="1" width="56" height="3" rx="1.5" fill="url(#accent)"/>
   <g transform="translate(615,32)">
-      <line x1="0" y1="10" x2="33" y2="0" stroke="#30363d" stroke-width="1.6"/><line x1="0" y1="10" x2="33" y2="26" stroke="#30363d" stroke-width="1.6"/><line x1="0" y1="10" x2="33" y2="52" stroke="#30363d" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="0" stroke="#30363d" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="26" stroke="#30363d" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="52" stroke="#30363d" stroke-width="1.6"/><line x1="33" y1="0" x2="66" y2="26" stroke="#30363d" stroke-width="1.6"/><line x1="33" y1="26" x2="66" y2="26" stroke="#30363d" stroke-width="1.6"/><line x1="33" y1="52" x2="66" y2="26" stroke="#30363d" stroke-width="1.6"/>
-      <circle cx="0" cy="10" r="5.5" fill="#161b22" stroke="#a78bfa" stroke-width="2.2" class="node" style="animation-delay:0.0s"/><circle cx="0" cy="42" r="5.5" fill="#161b22" stroke="#a78bfa" stroke-width="2.2" class="node" style="animation-delay:0.3s"/><circle cx="33" cy="0" r="5.5" fill="#161b22" stroke="#a78bfa" stroke-width="2.2" class="node" style="animation-delay:0.6s"/><circle cx="33" cy="26" r="5.5" fill="#161b22" stroke="#a78bfa" stroke-width="2.2" class="node" style="animation-delay:0.9s"/><circle cx="33" cy="52" r="5.5" fill="#161b22" stroke="#a78bfa" stroke-width="2.2" class="node" style="animation-delay:1.2s"/><circle cx="66" cy="26" r="5.5" fill="#161b22" stroke="#f472b6" stroke-width="2.2" class="node" style="animation-delay:1.5s"/>
+      <line x1="0" y1="10" x2="33" y2="0" stroke="#37332e" stroke-width="1.6"/><line x1="0" y1="10" x2="33" y2="26" stroke="#37332e" stroke-width="1.6"/><line x1="0" y1="10" x2="33" y2="52" stroke="#37332e" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="0" stroke="#37332e" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="26" stroke="#37332e" stroke-width="1.6"/><line x1="0" y1="42" x2="33" y2="52" stroke="#37332e" stroke-width="1.6"/><line x1="33" y1="0" x2="66" y2="26" stroke="#37332e" stroke-width="1.6"/><line x1="33" y1="26" x2="66" y2="26" stroke="#37332e" stroke-width="1.6"/><line x1="33" y1="52" x2="66" y2="26" stroke="#37332e" stroke-width="1.6"/>
+      <circle cx="0" cy="10" r="5.5" fill="#22201d" stroke="#93abc4" stroke-width="2.2" class="node" style="animation-delay:0.0s"/><circle cx="0" cy="42" r="5.5" fill="#22201d" stroke="#93abc4" stroke-width="2.2" class="node" style="animation-delay:0.3s"/><circle cx="33" cy="0" r="5.5" fill="#22201d" stroke="#93abc4" stroke-width="2.2" class="node" style="animation-delay:0.6s"/><circle cx="33" cy="26" r="5.5" fill="#22201d" stroke="#93abc4" stroke-width="2.2" class="node" style="animation-delay:0.9s"/><circle cx="33" cy="52" r="5.5" fill="#22201d" stroke="#93abc4" stroke-width="2.2" class="node" style="animation-delay:1.2s"/><circle cx="66" cy="26" r="5.5" fill="#22201d" stroke="#cf8a6b" stroke-width="2.2" class="node" style="animation-delay:1.5s"/>
     </g>
-  <text class="sans" x="615" y="132" font-size="21" font-weight="700" fill="#e6edf3">ML &amp; NLP</text>
-  <text class="sans" x="615" y="168" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> classical ML &amp; deep learning</text>
-  <text class="sans" x="615" y="195" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> seq2seq text summarisation</text>
-  <text class="sans" x="615" y="222" font-size="15.5" fill="#8b949e"><tspan fill="#22d3ee">›</tspan> scikit-learn · TensorFlow</text>
+  <text class="sans" x="615" y="132" font-size="21" font-weight="700" fill="#ede7dd">ML &amp; NLP</text>
+  <text class="sans" x="615" y="168" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> classical ML &amp; deep learning</text>
+  <text class="sans" x="615" y="195" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> seq2seq text summarisation</text>
+  <text class="sans" x="615" y="222" font-size="15.5" fill="#a59e93"><tspan fill="#d9b26f">›</tspan> scikit-learn · TensorFlow</text>
 </g>
 </svg>

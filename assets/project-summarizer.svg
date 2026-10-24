@@ -2,7 +2,7 @@
 <title>Automated Text Summarization: seq2seq LSTM trained on CNN/DailyMail that turns news articles into short, focused summaries (Python, TensorFlow, NLP)</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    <stop offset="0" stop-color="#93b38c"/><stop offset=".5" stop-color="#d9b26f"/><stop offset="1" stop-color="#cf8a6b"/>
   </linearGradient>
   <clipPath id="c"><rect width="420" height="172" rx="14"/></clipPath>
   <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
@@ -24,14 +24,14 @@
 
 <g class="card">
 <g clip-path="url(#c)">
-  <rect width="420" height="172" fill="#0d1117"/>
-  <rect width="420" height="3" fill="#22d3ee"/>
+  <rect width="420" height="172" fill="#191816"/>
+  <rect width="420" height="3" fill="#d9b26f"/>
   <rect class="shine" x="0" y="0" width="140" height="172" fill="url(#sh)"/>
 </g>
-<rect x=".5" y=".5" width="419" height="171" rx="14" fill="none" stroke="#30363d"/>
-<g transform="translate(22,26)" fill="none" stroke="#8b949e" stroke-width="1.6"><path d="M2 1.5h9.5a1.5 1.5 0 0 1 1.5 1.5v12H3.5A1.5 1.5 0 0 1 2 13.5V1.5Z"/><path d="M2 13.5A1.5 1.5 0 0 1 3.5 12H13"/></g>
-<text class="sans" x="46" y="40" font-size="19" font-weight="700" fill="#e6edf3">Automated Text Summarization</text>
-<text class="sans" x="22" y="76" font-size="14.5" fill="#8b949e">seq2seq LSTM trained on CNN/DailyMail that turns</text><text class="sans" x="22" y="99" font-size="14.5" fill="#8b949e">news articles into short, focused summaries</text>
-<rect x="22" y="128" width="65.6" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text class="mono" x="54.8" y="144.5" font-size="12.5" fill="#e6edf3" text-anchor="middle">Python</text><rect x="95.6" y="128" width="96" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text class="mono" x="143.6" y="144.5" font-size="12.5" fill="#e6edf3" text-anchor="middle">TensorFlow</text><rect x="199.6" y="128" width="42.8" height="24" rx="12" fill="#161b22" stroke="#30363d"/><text class="mono" x="221" y="144.5" font-size="12.5" fill="#e6edf3" text-anchor="middle">NLP</text>
+<rect x=".5" y=".5" width="419" height="171" rx="14" fill="none" stroke="#37332e"/>
+<g transform="translate(22,26)" fill="none" stroke="#a59e93" stroke-width="1.6"><path d="M2 1.5h9.5a1.5 1.5 0 0 1 1.5 1.5v12H3.5A1.5 1.5 0 0 1 2 13.5V1.5Z"/><path d="M2 13.5A1.5 1.5 0 0 1 3.5 12H13"/></g>
+<text class="sans" x="46" y="40" font-size="19" font-weight="700" fill="#ede7dd">Automated Text Summarization</text>
+<text class="sans" x="22" y="76" font-size="14.5" fill="#a59e93">seq2seq LSTM trained on CNN/DailyMail that turns</text><text class="sans" x="22" y="99" font-size="14.5" fill="#a59e93">news articles into short, focused summaries</text>
+<rect x="22" y="128" width="65.6" height="24" rx="12" fill="#22201d" stroke="#37332e"/><text class="mono" x="54.8" y="144.5" font-size="12.5" fill="#ede7dd" text-anchor="middle">Python</text><rect x="95.6" y="128" width="96" height="24" rx="12" fill="#22201d" stroke="#37332e"/><text class="mono" x="143.6" y="144.5" font-size="12.5" fill="#ede7dd" text-anchor="middle">TensorFlow</text><rect x="199.6" y="128" width="42.8" height="24" rx="12" fill="#22201d" stroke="#37332e"/><text class="mono" x="221" y="144.5" font-size="12.5" fill="#ede7dd" text-anchor="middle">NLP</text>
 </g>
 </svg>
