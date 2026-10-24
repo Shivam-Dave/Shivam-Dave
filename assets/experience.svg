@@ -29,27 +29,27 @@
   <circle cx="30" cy="44" r="7" fill="#191816" stroke="#93b38c" stroke-width="3"/>
   <text class="mono" x="58" y="49" font-size="14" fill="#93b38c">Jan 2025 · now</text>
   <text class="sans" x="240" y="50" font-size="19" font-weight="700" fill="#ede7dd">Jr. Software Developer (ML) <tspan font-weight="400" fill="#93abc4">@ Parkomate Solutions</tspan></text>
-  <text class="sans" x="240" y="77" font-size="15" fill="#a59e93">ANPR for Indian licence plates · multi-tenant Node.js + MySQL backend</text>
+  <text class="sans" x="240" y="77" font-size="15" fill="#a59e93">Fine-tuned ANPR for Indian licence plates · Multi-tenant Node.js + MySQL backend</text>
 </g>
 <g class="item" style="animation-delay:0.65s">
   
   <circle cx="30" cy="140" r="7" fill="#191816" stroke="#93abc4" stroke-width="3"/>
   <text class="mono" x="58" y="145" font-size="14" fill="#d9b26f">Jul 2024 · Dec 2024</text>
   <text class="sans" x="240" y="146" font-size="19" font-weight="700" fill="#ede7dd">Software Development Intern <tspan font-weight="400" fill="#93abc4">@ Salesine</tspan></text>
-  <text class="sans" x="240" y="173" font-size="15" fill="#a59e93">secure auth &amp; task platform with Node.js, Express, PostgreSQL and JWT</text>
+  <text class="sans" x="240" y="173" font-size="15" fill="#a59e93">Built 4+ APIs for a secure auth &amp; task platform · Node.js, Express, PostgreSQL, JWT</text>
 </g>
 <g class="item" style="animation-delay:1.05s">
   
   <circle cx="30" cy="236" r="7" fill="#191816" stroke="#93abc4" stroke-width="3"/>
   <text class="mono" x="58" y="241" font-size="14" fill="#d9b26f">May 2024 · Jun 2024</text>
   <text class="sans" x="240" y="242" font-size="19" font-weight="700" fill="#ede7dd">Machine Learning Intern <tspan font-weight="400" fill="#93abc4">@ Suvidha Foundation</tspan></text>
-  <text class="sans" x="240" y="269" font-size="15" fill="#a59e93">seq2seq LSTM text summariser trained on CNN/DailyMail</text>
+  <text class="sans" x="240" y="269" font-size="15" fill="#a59e93">Seq2seq LSTM text summariser on CNN/DailyMail · 60% shorter, 90% key info kept</text>
 </g>
 <g class="item" style="animation-delay:1.45s">
   
   <circle cx="30" cy="332" r="7" fill="#191816" stroke="#93abc4" stroke-width="3"/>
   <text class="mono" x="58" y="337" font-size="14" fill="#d9b26f">2021 · 2025</text>
   <text class="sans" x="240" y="338" font-size="19" font-weight="700" fill="#ede7dd">B.Tech, Computer Science (AI &amp; ML) <tspan font-weight="400" fill="#93abc4">@ Bharati Vidyapeeth</tspan></text>
-  <text class="sans" x="240" y="365" font-size="15" fill="#a59e93">graduated with a CGPA of 9.78 / 10</text>
+  <text class="sans" x="240" y="365" font-size="15" fill="#a59e93">Graduated with a CGPA of 9.78 / 10</text>
 </g>
 </svg>

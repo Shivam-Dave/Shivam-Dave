@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="58" viewBox="0 0 860 58" role="img" aria-label="Open source">
-<title>Open source</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="58" viewBox="0 0 860 58" role="img" aria-label="Open Source">
+<title>Open Source</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#93b38c"/><stop offset=".5" stop-color="#d9b26f"/><stop offset="1" stop-color="#cf8a6b"/>
@@ -26,7 +26,7 @@
 <g class="t">
   <text class="mono" x="0" y="34" font-size="16" fill="url(#accent)" font-weight="700">04</text>
   <text class="mono" x="30" y="34" font-size="16" fill="#a59e93">//</text>
-  <text class="sans" x="56" y="35" font-size="24" font-weight="700" fill="#ede7dd">Open source</text>
+  <text class="sans" x="56" y="35" font-size="24" font-weight="700" fill="#ede7dd">Open Source</text>
 </g>
 <rect x="0" y="50" width="860" height="1.5" fill="#37332e"/>
 <rect class="bar" x="0" y="49" width="170" height="3.5" rx="1.75" fill="url(#accent)"/>

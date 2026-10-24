@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="172" viewBox="0 0 420 172" role="img" aria-label="Student Management System: school admin platform for classes, subjects, staff and exam timetables (PHP, MySQL)">
-<title>Student Management System: school admin platform for classes, subjects, staff and exam timetables (PHP, MySQL)</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="172" viewBox="0 0 420 172" role="img" aria-label="Student Management System: School admin platform for classes, subjects, staff and exam timetables (PHP, MySQL)">
+<title>Student Management System: School admin platform for classes, subjects, staff and exam timetables (PHP, MySQL)</title>
 <defs>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#93b38c"/><stop offset=".5" stop-color="#d9b26f"/><stop offset="1" stop-color="#cf8a6b"/>
@@ -31,7 +31,7 @@
 <rect x=".5" y=".5" width="419" height="171" rx="14" fill="none" stroke="#37332e"/>
 <g transform="translate(22,26)" fill="none" stroke="#a59e93" stroke-width="1.6"><path d="M2 1.5h9.5a1.5 1.5 0 0 1 1.5 1.5v12H3.5A1.5 1.5 0 0 1 2 13.5V1.5Z"/><path d="M2 13.5A1.5 1.5 0 0 1 3.5 12H13"/></g>
 <text class="sans" x="46" y="40" font-size="19" font-weight="700" fill="#ede7dd">Student Management System</text>
-<text class="sans" x="22" y="76" font-size="14.5" fill="#a59e93">school admin platform for classes, subjects,</text><text class="sans" x="22" y="99" font-size="14.5" fill="#a59e93">staff and exam timetables</text>
+<text class="sans" x="22" y="76" font-size="14.5" fill="#a59e93">School admin platform for classes, subjects,</text><text class="sans" x="22" y="99" font-size="14.5" fill="#a59e93">staff and exam timetables</text>
 <rect x="22" y="128" width="42.8" height="24" rx="12" fill="#22201d" stroke="#37332e"/><text class="mono" x="43.4" y="144.5" font-size="12.5" fill="#ede7dd" text-anchor="middle">PHP</text><rect x="72.8" y="128" width="58" height="24" rx="12" fill="#22201d" stroke="#37332e"/><text class="mono" x="101.8" y="144.5" font-size="12.5" fill="#ede7dd" text-anchor="middle">MySQL</text>
 </g>
 </svg>
